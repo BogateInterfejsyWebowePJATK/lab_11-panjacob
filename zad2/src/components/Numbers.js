@@ -10,15 +10,15 @@ export default function Numbers() {
     }, [])
 
     const randomNumbers = () => {
-        setNumbers(Array.apply(0, Array(10)).map(() => Math.floor(Math.random() * 20) - 10))
+        setNumbers(Array.apply(0, Array(10)).map(() => Math.floor(Math.random() * 100)))
     }
 
     return (
         <>
-            <button onClick={randomNumbers}>Losuj</button>
+            <button onClick={randomNumbers}>Random</button>
             <ul>
-                {numbers.map((i, x) => {
-                    return <li key={x}>{i}</li>
+                {numbers.map((number, i) => {
+                    return <li key={i}>{number}</li>
                 })}
             </ul>
         </>

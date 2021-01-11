@@ -20,7 +20,7 @@ export default function Numbers() {
     return (
         <ul>
             {
-                randomNumbers.map(number => <li>{number}</li>)
+                randomNumbers.map((number, i) => <li id={i}>{number}</li>)
             }
         </ul>
     );

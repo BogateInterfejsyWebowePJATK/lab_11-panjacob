@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/2010-kodiak-bear-1.jpg",
+    "title": "Kodiak",
+    "date": "07-01-2010"
+  },
+  {
+    "id": 2,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Polar_Bear_-_Alaska.jpg",
+    "title": "Polar",
+    "date": "07-09-2008"
+  },
+  {
+    "id": 3,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Formosan_Black_Bear01.jpg",
+    "title": "Asian Black",
+    "date": "07-09-2012"
+  },
+  {
+    "id": 4,
+    "url": "https://npr.brightspotcdn.com/dims4/default/4f5de27/2147483647/strip/true/crop/1800x1200+0+0/resize/1760x1174!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff6%2F23%2F001849ae45a9bf2f8c6807862ce6%2F090420-provided-blackbear.jpg",
+    "title": "American Black",
+    "date": "07-09-2006"
+  },
+  {
+    "id": 5,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Sun-bear.jpg",
+    "title": "Sun",
+    "date": "07-09-2013"
+  },
+  {
+    "id": 6,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Sloth_bear_1.jpg",
+    "title": "Sloth Black",
+    "date": "07-09-2005"
+  },
+  {
+    "id": 7,
+    "url": "https://animals.sandiegozoo.org/sites/default/files/2016-09/animals_hero_spectacledbear.jpg",
+    "title": "Spectacled",
+    "date": "07-09-2014"
+  },
+  {
+    "id": 8,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Grosser_Panda.JPG",
+    "title": "Giant Panda",
+    "date": "07-09-2004"
+  },
+  {
+    "id": 9,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Puijila_BW.jpg",
+    "title": "Pinniped",
+    "date": "07-09-2016"
+  },
+  {
+    "id": 10,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Kolponomos_newportensis_.jpg",
+    "title": "Amphicynodontinae",
+    "date": "07-09-2000"
+  }
+]
